@@ -64,3 +64,4 @@ python task6_knn_classifier.py
 
 # For decision boundary visualization
 python task6_knn_boundaries.py
+
